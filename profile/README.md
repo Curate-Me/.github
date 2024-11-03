@@ -14,7 +14,7 @@
 ![architecture](./claco-architecture.png)
 
 ## ERD
-![erd](./claco-erd-ver-1-1-0.png)
+![erd](./claco-erd-ver-1-1-1.png)
 
 ## API 응답 형식
 ![api-1](./img.png)
