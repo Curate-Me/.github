@@ -2,20 +2,21 @@
 
 ### 팀원
 
-| 이름 | 파트 |
-|-----|-----|
-| 김진희 | FE |
-| 성태현 | FE |
-| 이건 | BE <개발리드> |
-| 정희찬 | BE |
+| 이름  | 파트        | 담당 업무                                                      |
+|-----|-----------|------------------------------------------------------------|
+| 김진희 | FE        | 소셜 로그인, 온보딩, 공연 상세, 둘러보기, <br> 티켓 등록 서비스 GUI 개발 및 API 연동   |
+| 성태현 | FE        | 서비스 메인, 리뷰, 클라코북 만들기, <br> 마이페이지 서비스 GUI 개발 및 API 연동       |
+| 이건  | BE <개발리드> | 아키텍처 설계, ERD 설계, 인증/인가 기능, <br> 회원가입 기능, 티켓&리뷰 기능          |
+| 정희찬 | BE        | 배치 서버 설계 및 구현, AI 서버 설계 및 구현, <br> 추천 시스템 구현(AI), 공연 정보 기능 |
 
-<!--
+## Architecture
 
-**Here are some ideas to get you started:**
+![architecture](./claco-architecture.png)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ERD
+![erd](./claco-erd-ver-1-1-0.png)
+
+## API 응답 형식
+![api-1](./img.png)
+<br>
+![api-2](./img_1.png)
